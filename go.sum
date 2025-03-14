@@ -1,0 +1,4 @@
+github.com/mshanah/lcnc-domain v0.0.0-20250314145841-a97bd0d35e90 h1:prhG/Wf9O07/lvaXrjwp20wxdnDft7I3rLgEtK84eMk=
+github.com/mshanah/lcnc-domain v0.0.0-20250314145841-a97bd0d35e90/go.mod h1:eWohTj3Bx+os61nEsPPa6r6IyQk4NJbzvBDrEslSmzk=
+github.com/mshanah/lcnc-port v0.0.0-20250314145940-e1218ee7df01 h1:PGUu/wLbhO3HRuD5/KCvgANqvGAp/JsBBD7cEzJjeSE=
+github.com/mshanah/lcnc-port v0.0.0-20250314145940-e1218ee7df01/go.mod h1:ZjpSCnNt0ztjt/EP8eYNXjn6gm/qwwHfgmbg+eogFGA=
